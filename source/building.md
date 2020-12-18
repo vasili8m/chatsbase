@@ -30,4 +30,3 @@ https://t.me/stroy_mat Строительство и отделка Строит
 https://t.me/instrumentmos Строительные инструменты Москва и МО
 https://t.me/job_lifehacker Строительный Лайфхак
 https://t.me/mykvrtchat 
- 
