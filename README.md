@@ -1,14 +1,14 @@
 IT
 
-​	[IT%20разные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/IT%20разные.txt)
+​	[IT разные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/IT%20разные.txt)
 
 ​	[Арбитраж](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/арбитраж.txt)
 
-​	[базы%20данных](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/базы%20данных.txt)
+​	[базы данных](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/базы%20данных.txt)
 
 ​	[Программисты](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/программисты.txt)
 
-​	%20[SEO](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/SEO%20чаты.txt)
+​	[SEO](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/SEO%20чаты.txt)
 
 
 
@@ -16,7 +16,7 @@ IT
 
 ​	[Бизнесмены](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Бизнесмены.txt)
 
-​	[Услуги%20для%20бизнеса](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/услуги%20для%20бизнеса.txt)
+​	[Услуги для бизнеса](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/услуги%20для%20бизнеса.txt)
 
 ​	[Предприниматели](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/предприниматели.txt)
 
@@ -30,13 +30,13 @@ IT
 
 Новостройки
 
-​	Чаты%20телеграм
+​	Чаты телеграм
 
 ​		[приватные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20приватные%20чаты%20телеграм.txt)
 
 ​		[публичные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20публичные%20чаты%20телеграм.txt)
 
-​	[каналы%20телеграм](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20каналы.txt)
+​	[каналы телеграм](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20каналы.txt)
 
 ​	facebook
 
@@ -48,49 +48,47 @@ IT
 
 ​	[ВК](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20вк.txt)	
 
-​	Выгрузка%20из%20групп%20новостроек%20вк
+​	Выгрузка из групп новостроек вк
 
-​		[facebook%20аккаунты](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20facebook%20.txt)
+​		[facebook аккаунты](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20facebook%20.txt)
 
-​		[twitter%20аккаунты](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20twitter%20334.txt)
+​		[twitter аккаунты](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20twitter%20334.txt)
 
-​		instagram%20аккаунты
+​		instagram аккаунты
 
 ​			[все](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20instagram%20все%2022к.txt)
 
 ​			[активные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20instagram%20активные%202к%20.txt)
 
-​		vk%20аккаунты
+​		vk аккаунты
 
 ​			[все](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20vk%20полная%20475к.txt)
 
 ​			[активные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20vk%20активные%2019к.txt)
 
-​		Телефонные%20номера%20
+​		Телефонные номер cписок
 
-​			список
+​			[с именами](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/телефонные%20номера%20с%20именем%20(активные%20подписчики%20вк).txt)
 
-​			[с%20именами](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/телефонные%20номера%20с%20именем%20(активные%20подписчики%20вк).txt)
-
-​		Популярные%20сообщества
+​		Популярные сообщества
 
 
 
 
 
-Стройка%20и%20ремонт
+Стройка и ремонт
 
-​	[Чаты%20строителей](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/строительство.txt)
+​	[Чаты строителей](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/строительство.txt)
 
 
 
 Недвижимость
 
-​	[Недвижимость%20чаты%20телеграм](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/недвижимость.txt)
+​	[Недвижимость чаты телеграм](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/недвижимость.txt)
 
-​	Недвижимость%20без%20посредников
+​	Недвижимость без посредников
 
-​		[facebook](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/недвижимость%20без%20посредников%20facebook.txt)%20
+​		[facebook](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/недвижимость%20без%20посредников%20facebook.txt)
 
 ​		[vk](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/недвижимость%20без%20посредников%20вк.txt)
 
@@ -98,11 +96,11 @@ IT
 
 
 
-Реклама%20и%20маркетинг
+Реклама и маркетинг
 
-​	Пиар%20чаты	
+​	Пиар чаты	
 
-​		[публичные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/пиар%20чаты%20публичные.txt)%20
+​		[публичные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/пиар%20чаты%20публичные.txt)
 
 ​		[приватные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/пиар%20чаты%20приватные.txt)
 
@@ -114,13 +112,13 @@ IT
 
 Производство
 
-​	Тяжелая%20промышленность
+​	Тяжелая промышленность
 
 ​		[Металл](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/металл.txt)
 
 ​		[нефтепродукты](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Нефтепродукты.txt)
 
-​	Легкая%20промышленность
+​	Легкая промышленность
 
 ​		[Мебель](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/мебель.txt)
 
@@ -152,9 +150,9 @@ IT
 
 
 
-Тематические%20чаты
+Тематические чаты
 
-​	[Бьюти%20сфера](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Бьюти%20чаты.txt)
+​	[Бьюти сфера](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Бьюти%20чаты.txt)
 
 ​	[Знакомства](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Знакомства.txt)
 
@@ -168,7 +166,7 @@ IT
 
 ​	[Туризм](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Туризм.txt)
 
-​	[Ставки%20на%20спорт](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Ставки%20на%20спорт.txt)
+​	[Ставки на спорт](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Ставки%20на%20спорт.txt)
 
 ​	[Спорт](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/спорт.txt)
 
@@ -176,7 +174,7 @@ IT
 
 
 
-Профессиональные%20чаты
+Профессиональные чаты
 
 ​	[Дизайнеры](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Дизайнеры.txt)
 
