@@ -314,7 +314,7 @@ https://t.me/tomilinobaraxolka Барахолка - Томилино
 https://t.me/tomilinochat ЖК Томилино, общий чат
 https://t.me/tsvetochnye_polyany ЖК Цветочные Поляны
 https://t.me/twelvekorpus К-12 ЖК Кленовые аллеи
-https://t.me/twinhousekazan ЖК Twin House (Жилой комплекс Twin House)
+https://t.me/twinhousekazan ЖК Twin House 
 https://t.me/uslugi_remont УСЛУГИ! Предложения по ремонту, дизайну, магазинам...
 https://t.me/uslugi_serebr Услуги, вакансии ЖК "Серебрица"
 https://t.me/uslugipexra Услуги ЖК Пехра
@@ -343,4 +343,8 @@ https://t.me/zhk_lyubertsy_53_korpus ЖК Люберцы - 53 корпус (Са
 https://t.me/zhk_ogni ЖК «Огни»
 https://t.me/zhk_polar_lights ЖК Северное Сияние (Екб)
 https://t.me/zhkmalina ЖК Малина Нахабино
+https://t.me/zilart_official ЖК ЗИЛАРТhttps://t.me/jurist_jkgrinada Юр.чат | ЖК «Гринада»
+https://t.me/preobrazhenie ЖК Преображение. Звон ключей 🔑
+https://t.me/sirenpark13 Корпус 1В ЖК Сиреневый парк
+https://t.me/twinhousekazan ЖК Twin House (Жилой комплекс Twin House, Жилой комплекс "Твин Хаус", ЖК Твин Хаус, ЖК TWIN HOUSE, ЖК "Twin House", ТВИН ХАУС)
 https://t.me/zilart_official ЖК ЗИЛАРТ

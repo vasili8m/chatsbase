@@ -1,4 +1,4 @@
-IT
+#### IT
 
 ​	[IT разные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/IT%20разные.txt)
 
@@ -10,9 +10,9 @@ IT
 
 ​	[SEO](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/SEO%20чаты.txt)
 
+------
 
-
-Бизнес
+#### Бизнес
 
 ​	[Бизнесмены](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Бизнесмены.txt)
 
@@ -24,21 +24,23 @@ IT
 
 ​	[Финансы](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Финансы.txt)
 
+------
 
+#### Новостройки
 
-
-
-Новостройки
-
-​	Чаты телеграм
+###### 	Чаты телеграм
 
 ​		[приватные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20приватные%20чаты%20телеграм.txt)
 
 ​		[публичные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20публичные%20чаты%20телеграм.txt)
 
-​	[каналы телеграм](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20каналы.txt)
+###### Каналы телеграм	
 
-​	facebook
+​		[каналы телеграм](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20каналы.txt)
+
+###### facebook
+
+​		facebook
 
 ​	[instagram](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20instagram.txt)
 
@@ -47,6 +49,8 @@ IT
 ​	[twitter](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20твиттер.txt)
 
 ​	[ВК](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20вк.txt)	
+
+------
 
 ​	Выгрузка из групп новостроек вк
 
@@ -72,7 +76,7 @@ IT
 
 ​		Популярные сообщества
 
-
+------
 
 
 
@@ -80,7 +84,13 @@ IT
 
 ​	[Чаты строителей](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/строительство.txt)
 
+​	Спецтехника
 
+​	Стройматериалы
+
+​	Инертные материалы
+
+------
 
 Недвижимость
 
@@ -94,7 +104,7 @@ IT
 
 ​		[telegram](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/недвижимость%20без%20посредников.txt)
 
-
+------
 
 Реклама и маркетинг
 
@@ -104,33 +114,53 @@ IT
 
 ​		[приватные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/пиар%20чаты%20приватные.txt)
 
-​	[Покупка%20рекламы](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/покупка%20рекламы.txt)
+​	[Покупка рекламы](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/покупка%20рекламы.txt)
+
+​	Маркетинг
 
 
 
+------
 
+#### Производство
 
-Производство
-
-​	Тяжелая промышленность
+###### Тяжелая промышленность
 
 ​		[Металл](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/металл.txt)
 
-​		[нефтепродукты](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Нефтепродукты.txt)
+​		Трубы
 
-​	Легкая промышленность
+###### Пегкая промышленность
+
+​		Дерево
 
 ​		[Мебель](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/мебель.txt)
 
+​		Химикаты
 
+###### Пищевая промышленность и С/Х
 
-Разные%20чаты%20и%20каналы
+​		Сельское хозяйство
+
+###### Природные ресурсы
+
+​		Нерудные материалы
+
+​		[нефтепродукты](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Нефтепродукты.txt)
+
+------
+
+#### Разные чаты и каналы
 
 ​	[публичные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/разные%20ссылки.txt)
 
-​	приватные
+​	приватные чаты
 
+​	приватные канадлы
 
+​	топ русских чатов
+
+------
 
 
 
@@ -148,13 +178,17 @@ IT
 
 
 
+------
 
-
-Тематические чаты
+##### Тематические чаты
 
 ​	[Бьюти сфера](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Бьюти%20чаты.txt)
 
 ​	[Знакомства](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Знакомства.txt)
+
+​	Общение
+
+​	Молодежные
 
 ​	[даркнет](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/даркнет.txt)
 
@@ -170,7 +204,7 @@ IT
 
 ​	[Спорт](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/спорт.txt)
 
-
+------
 
 
 
@@ -178,13 +212,21 @@ IT
 
 ​	[Дизайнеры](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Дизайнеры.txt)
 
+​	Юристы](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Юристы.txt)
+
+​	Повара
+
+
+
+------
+
+Работа, вакансии, резюме
+
+​	Поиск работы
+
 ​	[Фрилансеры](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Фрилансеры.txt)
 
-​	[Юристы](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/Юристы.txt)
 
 
-
-
-
-
+------
 
