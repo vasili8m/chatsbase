@@ -80,45 +80,17 @@
 
 ​		[каналы телеграм](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20каналы.txt)
 
-###### 	facebook
-
 ​		facebook сообщества и страницы
-
-​		[facebook аккаунты список](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20facebook%20.txt)
-
-###### instagram
 
 ​		[instagram](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20instagram.txt)
 
-​		парсинг все профили
-
-​		парсинг только активные
-
-###### 	Whatsapp
-
 ​		whatsapp
-
-###### 	Twitter
 
 ​		[twitter](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20твиттер.txt)
 
-​		[twitter аккаунты](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20twitter%20334.txt)
-
-###### 	VK
-
 ​		[ВК группы новстроек](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/новостройки%20вк.txt)	
 
-​		[парсинг все профили](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20vk%20полная%20475к.txt)
-
-​		[парсинг только активные](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/выгрузка%20из%20новостроек%20клиенты%20vk%20активные%2019к.txt)
-
-​		Популярные сообщества
-
-###### Телефонные номера
-
 ​		[cписок с именами](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/телефонные%20номера%20с%20именем%20(активные%20подписчики%20вк).txt)
-
-###### Ватсап
 
 ​		тематические чаты
 
@@ -148,13 +120,13 @@
 
 ------
 
-------
-
-------
-
 #### Недвижимость
 
 ​	[Недвижимость чаты телеграм](https://raw.githubusercontent.com/truejesusadmin/chatsbase/main/source/недвижимость.txt)
+
+​	Недвижимость ВК
+
+​	недвижимость фб
 
 ##### Недвижимость без посредников
 
