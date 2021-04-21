@@ -1,0 +1,19 @@
+HR
+https://github.com/vasili8m/chatsbase/blob/main/chats/HR.txt
+https://raw.githubusercontent.com/vasili8m/chatsbase/main/chats/HR.txt
+https://github.com/vasili8m/chatsbase/blob/main/source/HR_links.txt
+https://raw.githubusercontent.com/vasili8m/chatsbase/main/source/HR_links.txt
+
+
+Новостройки МСК
+https://github.com/vasili8m/chatsbase/blob/main/novostroy/novostroy_msk.txt
+https://raw.githubusercontent.com/vasili8m/chatsbase/main/novostroy/novostroy_msk.txt
+https://github.com/vasili8m/chatsbase/blob/main/source/novostroy_msk_links.txt
+https://raw.githubusercontent.com/vasili8m/chatsbase/main/source/novostroy_msk_links.txt
+
+
+Даркнет
+
+
+
+Финансы
