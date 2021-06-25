@@ -1,0 +1,9 @@
+1. @mysql_ru
+2. @ponyorm
+3. @clickhouse_ru
+4. @sqlcom
+5. @tarantoolru
+6. @bigdata_en
+7. @joinchat/ABI4pz6rz2iVzWUzaVqpmA
+8. @neuroworkshop
+9. @mailrucontests

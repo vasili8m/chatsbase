@@ -1,0 +1,19 @@
+▫️ Lampyre (https://account.lampyre.io/email-and-phone-lookup) — веб версия поиска по любому номеру телефона, поиск по аккаунтам и телефонной книге
+▫️ Getcontact (https://getcontact.com/) — найдет информацию о том как записан номер в контактах
+▫️ Truecaller (https://www.truecaller.com/) — телефонная книга, найдет имя и оператора телефона
+▫️ Bullshit (https://mirror.bullshit.agency/) — поиск объявлений по номеру телефона
+▫️ Bases-brothers (https://bases-brothers.ru/) — поиск номера в объявлениях
+▫️ Microsoft (http://account.live.com/) — проверка привязанности номера к microsoft аккаунту
+▫️ Avinfo.guru (https://avinfo.guru/) — проверка телефона владельца авто, иногда нужен VPN
+▫️ Telefon.stop-list (http://telefon.stop-list.info/) — поиск по всем фронтам, иногда нет информации
+▫️ @numberPhoneBot (https://t.me/@numberPhoneBot) — найдет адрес и ФИО, не всегда находит
+▫️ Rosfirm (https://gutelu.rosfirm.info/) — найдет ФИО, адрес прописки и дату рождения, нужно знать город
+▫️ Spravnik (https://spravnik.com/) — поиск по городскому номеру телефона, найдет ФИО и адрес
+▫️ @usersbox_bot (https://t.me/@usersbox_bot) — бот найдет аккаунты в ВК у которых в поле номера телефона указан искомый номер
+▫️ Spiderfoot (https://www.spiderfoot.net/) — автоматический поиск с использованием огромного количества методов, ножно использовать в облаке если пройти регистрацию
+▫️ Locatefamily (https://www.locatefamily.com/) — поиск адреса и ФИО
+▫️ Nuga — поиск instagram
+▫️ Live.com (http://account.live.com/) — Проверка привязки к майкрософт
+▫️ Telefon (http://telefon.stop-list.info/) — Поиск по всем фронтам
+▫️ @FindNameVk_bot (https://t.me/@FindNameVk_bot) — Бот ищет историю смены фамилий профиля по открытым источникам, указывает дату создания аккаунта.
+▫️ @@InfoVkUser_bot (https://t.me/@@InfoVkUser_bot) — Бот позволяет провести анализ друзей профиля. Сейчас доступны ВУЗы и родные города.
